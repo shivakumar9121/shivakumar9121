@@ -4,7 +4,7 @@
 **AI/ML · Data Analysis · Full-Stack Development**
 
 
-[View my portfolio](https://shivakumar9121.github.io) · [Download résumé](https://shivakumar9121.github.io/resume.pdf)
+[View my portfolio](https://shivakumar9121.github.io/shiva_portfolio/) · [Download résumé](https://shivakumar9121.github.io/resume.pdf)
 
 
 Final-year B.Tech Computer Science and Engineering student at **IIIT Vadodara**, graduating in **2027**. I build document AI tools, computer-vision prototypes, analytical dashboards and web applications. **Seeking opportunities** across India, including remote roles.
