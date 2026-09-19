@@ -2,6 +2,8 @@
 
 **AI/ML · Data Analysis · Full-Stack Development**
 
+[View my portfolio](https://shiva-kumar-portfolio.aahan-pdr.chatgpt.site) · [Download résumé](https://shiva-kumar-portfolio.aahan-pdr.chatgpt.site/assets/resume.pdf)
+
 Final-year B.Tech Computer Science and Engineering student at **IIIT Vadodara**, graduating in **2027**. I build computer-vision prototypes, analytical dashboards and web applications. **Seeking opportunities** across India, including remote roles.
 
 ## Work to explore
@@ -21,5 +23,9 @@ Final-year B.Tech Computer Science and Engineering student at **IIIT Vadodara**,
 
 - **Software Development Engineer Intern, Xerlon** — July–August 2026
 - **Data Analyst Intern, Unified Mentor Pvt. Ltd.** — May–July 2026
+
+## Certification
+
+**[Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=mJ376tgtTH6GW4vM675hIA)** — NVIDIA Certificate of Competency, issued 14 October 2025.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/pathlavath-shiva-kumar-441517321/)
